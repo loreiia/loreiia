@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdessamad</h1>
+<h1 align="center">Hi 👋, I'm Loreiia</h1>
 <h3 align="center">Student & Free Time Developer</h3>
 
 - 🔭 I’m currently working on **Building a website for my school's robotics team**
